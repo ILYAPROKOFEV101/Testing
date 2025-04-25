@@ -1,0 +1,11 @@
+/Users/ilyaprokofev/RiderProjects/Worktesting/Worktesting/bin/Debug/net9.0/Worktesting.deps.json
+/Users/ilyaprokofev/RiderProjects/Worktesting/Worktesting/bin/Debug/net9.0/Worktesting.dll
+/Users/ilyaprokofev/RiderProjects/Worktesting/Worktesting/bin/Debug/net9.0/Worktesting.pdb
+/Users/ilyaprokofev/RiderProjects/Worktesting/Worktesting/obj/Debug/net9.0/Worktesting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyaprokofev/RiderProjects/Worktesting/Worktesting/obj/Debug/net9.0/Worktesting.AssemblyInfoInputs.cache
+/Users/ilyaprokofev/RiderProjects/Worktesting/Worktesting/obj/Debug/net9.0/Worktesting.AssemblyInfo.cs
+/Users/ilyaprokofev/RiderProjects/Worktesting/Worktesting/obj/Debug/net9.0/Worktesting.csproj.CoreCompileInputs.cache
+/Users/ilyaprokofev/RiderProjects/Worktesting/Worktesting/obj/Debug/net9.0/Worktesting.dll
+/Users/ilyaprokofev/RiderProjects/Worktesting/Worktesting/obj/Debug/net9.0/refint/Worktesting.dll
+/Users/ilyaprokofev/RiderProjects/Worktesting/Worktesting/obj/Debug/net9.0/Worktesting.pdb
+/Users/ilyaprokofev/RiderProjects/Worktesting/Worktesting/obj/Debug/net9.0/ref/Worktesting.dll
